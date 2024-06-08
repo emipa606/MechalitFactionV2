@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>Namegen_MechalitFactionName</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt; Mechalit</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>Namegen_MechalitFactionBase</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt; Mechalit faction base</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

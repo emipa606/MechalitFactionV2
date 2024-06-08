@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelMakeableBaseMeh">
+    <defName>Apparel_TrainBelt</defName>
+    <label>train belt</label>
+    <description>It is attached to the waist and connects to the spinal cord. It facilitates the rapid assimilation of information and the improvement of muscle memory, and therefore increases the learning factor for everything. Side effects: reduces the speed of work, the rate of absorption of food, increases the threshold of nervous breakdown. The training belt is necessary for colonists with a low level of any skill in order to develop it as quickly as possible.</description>
+    <graphicData>
+      <texPath>Other2/TrainBelt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <Mass>5</Mass>
+      <WorkToMake>18000</WorkToMake>
+      <Flammability>0.2</Flammability>
+      <EquipDelay>2</EquipDelay>
+      <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.3</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.3</ArmorRating_Heat>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>2</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <GlobalLearningFactor>1.5</GlobalLearningFactor>
+      <WorkSpeedGlobal>-0.75</WorkSpeedGlobal>
+      <EatingSpeed>-0.75</EatingSpeed>
+      <MentalBreakThreshold>0.1</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <costList>
+      <Teachmat>400</Teachmat>
+      <Plasteel>40</Plasteel>
+      <Mechanites>4</Mechanites>
+      <Energx>4</Energx>
+    </costList>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedBelt</unfinishedThingDef>
+      <researchPrerequisite>SimpleMechaTechnologies</researchPrerequisite>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Machining</soundWorking>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+    </apparel>
+  </ThingDef>
+</Defs>

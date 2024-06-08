@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Low tier - scavenger, thrasher -->
+  <MehalitScout.label>Scout</MehalitScout.label>
+  <MehalitScout.labelPlural>Scouts</MehalitScout.labelPlural>
+  <MehalitWarrior.label>Warrior</MehalitWarrior.label>
+  <MehalitWarrior.labelPlural>Warriors</MehalitWarrior.labelPlural>
+  <MehalitDestroyer.label>Destroyer</MehalitDestroyer.label>
+  <MehalitDestroyer.labelPlural>Destroyers</MehalitDestroyer.labelPlural>
+  <MehalitWarriorE.label>Elite Warrior</MehalitWarriorE.label>
+  <MehalitWarriorE.labelPlural>Elite Warriors</MehalitWarriorE.labelPlural>
+  <MehalitWarriorE_Defender.label>Elite Defender</MehalitWarriorE_Defender.label>
+  <MehalitWarriorE_Defender.labelPlural>Elite Defenders</MehalitWarriorE_Defender.labelPlural>
+  <MehalitWarriorL.label>Leader</MehalitWarriorL.label>
+  <MehalitWarriorL.labelPlural>Leader</MehalitWarriorL.labelPlural>
+  <Mehalit_Trader.label>Trader</Mehalit_Trader.label>
+  <Mehalit_Trader.labelPlural>Traders</Mehalit_Trader.labelPlural>
+</LanguageData>

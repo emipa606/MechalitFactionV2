@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SimpleMechaTechnologies.label>▲ Простые м-технологии</SimpleMechaTechnologies.label>
+  <SimpleMechaTechnologies.description>Исследование открывает доступ к меха-верстаку, на котором производятся экипировка и оружие фракции "Мехалит", а так же создаются различные виды ткани.</SimpleMechaTechnologies.description>
+  <MechaHelmets.label>▲ Меха-шлемы</MechaHelmets.label>
+  <MechaHelmets.description>Позволяет создавать тактический шлем и шлем "Пума"..</MechaHelmets.description>
+  <MechaBelts.label>▲ Меха-пояса</MechaBelts.label>
+  <MechaBelts.description>Позволяет создавать учебный пояс и магнитный щит.</MechaBelts.description>
+  <SynthreadAndHyperweave.label>▲ Синткань/гиперткань</SynthreadAndHyperweave.label>
+  <SynthreadAndHyperweave.description>Позволяет создавать продвинутые виды ткани из мульти-ткани и других материалов.</SynthreadAndHyperweave.description>
+  <SimpleMechaWeapon.label>▲ Простое м-оружие</SimpleMechaWeapon.label>
+  <SimpleMechaWeapon.description>Открывает крафт простого оружия фракции "Мехалит".</SimpleMechaWeapon.description>
+  <ArmorMechalit.label>▲ Броня "Мехалит"</ArmorMechalit.label>
+  <ArmorMechalit.description>Исследование позволяет создавать броню и шлем "Мехалит".</ArmorMechalit.description>
+  <ThermoclothandMechacloth.label>▲ Термо/меха-ткань</ThermoclothandMechacloth.label>
+  <ThermoclothandMechacloth.description>Исследование открывает создание элитных видов ткани.</ThermoclothandMechacloth.description>
+  <AdvancedMechaWeapon.label>▲ Продв. м-оружие</AdvancedMechaWeapon.label>
+  <AdvancedMechaWeapon.description>Исследование открывает продвинутое вооружение фракции "Мехалит".</AdvancedMechaWeapon.description>
+  <EliteMechaWeapons.label>▲ Элитное оружие</EliteMechaWeapons.label>
+  <EliteMechaWeapons.description>Позволяет воздавать элитное вооружение фракции "Мехалит".</EliteMechaWeapons.description>
+</LanguageData>

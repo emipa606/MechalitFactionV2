@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeMultiCloth.label>Make multicloth x5</MakeMultiCloth.label>
+  <MakeMultiCloth.description>Make multicloth from skin/cloth, using special gas.</MakeMultiCloth.description>
+  <MakeMultiCloth30.label>Make multicloth x30</MakeMultiCloth30.label>
+  <MakeMultiCloth30.description>Make multicloth from skin/cloth, using special gas.</MakeMultiCloth30.description>
+  <MakeSynthreadMeh.label>Make synthread x30</MakeSynthreadMeh.label>
+  <MakeSynthreadMeh.description>Make synthread from eftam and big amount of multicloth.</MakeSynthreadMeh.description>
+  <MakeHyperweaveMeh.label>Make hyperweave x30</MakeHyperweaveMeh.label>
+  <MakeHyperweaveMeh.description>Make hyperweave from plasteel and big amount of multicloth.</MakeHyperweaveMeh.description>
+  <MakeThermoClothMeh.label>Make thermothread x30</MakeThermoClothMeh.label>
+  <MakeThermoClothMeh.description>Make thermothread from synthread and wool.</MakeThermoClothMeh.description>
+  <MakeMechaClothMeh.label>Make mechaweave x30</MakeMechaClothMeh.label>
+  <MakeMechaClothMeh.description>Make mechaweave from hyperweave and devilstrand.</MakeMechaClothMeh.description>
+  <Make_Apparel_ThermalSuitMeh.label>Make thermosuit</Make_Apparel_ThermalSuitMeh.label>
+  <Make_Apparel_ProtectiveSuitMeh.label>Make protective suit</Make_Apparel_ProtectiveSuitMeh.label>
+  <Make_Apparel_WorkSuitMeh.label>Make worker's exosuit</Make_Apparel_WorkSuitMeh.label>
+  <Make_Apparel_ArmorMechalitMeh.label>Make Mechalit armor</Make_Apparel_ArmorMechalitMeh.label>
+  <Make_Apparel_STacticalHelmetMeh.label>Make tactical helmet</Make_Apparel_STacticalHelmetMeh.label>
+  <Make_Apparel_HelmetPumaMeh.label>Make "Puma" helmet</Make_Apparel_HelmetPumaMeh.label>
+  <Make_Apparel_HelmetMechalitMeh.label>Make Mechalit helmet</Make_Apparel_HelmetMechalitMeh.label>
+  <!-- ОРУЖИЕ -->
+  <Make_Gun_PistolAmber.label>Make "Amber" pistol</Make_Gun_PistolAmber.label>
+  <Make_Gun_AutopistolNeptune.label>Make "Neptune" SMG</Make_Gun_AutopistolNeptune.label>
+  <Make_Gun_PlasmaGun.label>Make plasmagun</Make_Gun_PlasmaGun.label>
+  <Make_Gun_MagmaGun.label>Make magmagun</Make_Gun_MagmaGun.label>
+  <Make_Gun_ShotgunDolphin.label>Make "Dolphin" shotgun</Make_Gun_ShotgunDolphin.label>
+  <Make_Gun_MechaRifle.label>Make mecharifle</Make_Gun_MechaRifle.label>
+  <Make_Gun_MachineGunEclipse.label>Make "Eclipse" machinegun</Make_Gun_MachineGunEclipse.label>
+</LanguageData>

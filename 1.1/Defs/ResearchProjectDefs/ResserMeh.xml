@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>SimpleMechaTechnologies</defName>
+    <label>Simple mecha-techs</label>
+    <description>Research unlocks mecha-workbench, that is used to create equpment and weapons of the Mechalit faction, as well as new types of cloth..</description>
+    <baseCost>700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>ComplexClothing</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>6</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MechaHelmets</defName>
+    <label>Mecha-helmets</label>
+    <description>Allows to craft tactical and "Puma" helmets.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SimpleMechaTechnologies</li>
+      <li>FlakArmor</li>
+    </prerequisites>
+    <researchViewX>9</researchViewX>
+    <researchViewY>5.2</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SynthreadAndHyperweave</defName>
+    <label>Synthread/Hyperweave</label>
+    <description>Allows to make synthread and hyperweave from multicloth and other materials.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SimpleMechaTechnologies</li>
+    </prerequisites>
+    <researchViewX>12</researchViewX>
+    <researchViewY>5</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SimpleMechaWeapon</defName>
+    <label>Simple mecha-weapon</label>
+    <description>Unlocks craft of simple Mechalit weapons.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SimpleMechaTechnologies</li>
+      <li>BlowbackOperation</li>
+    </prerequisites>
+    <researchViewX>9</researchViewX>
+    <researchViewY>6</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>ArmorMechalit</defName>
+    <label>Mechalit armor</label>
+    <description>Research allows to create parts of Mechalit armor set: helmet and body armor.</description>
+    <baseCost>5200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>MechaHelmets</li>
+      <li>PoweredArmor</li>
+    </prerequisites>
+    <researchViewX>17</researchViewX>
+    <researchViewY>5.2</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>ThermoclothandMechacloth</defName>
+    <label>Thermothread/Mechaweave</label>
+    <description>Research unlocks elite types of textile.</description>
+    <baseCost>4100</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SynthreadAndHyperweave</li>
+    </prerequisites>
+    <researchViewX>14</researchViewX>
+    <researchViewY>5</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>AdvancedMechaWeapon</defName>
+    <label>Advanced m-weapon</label>
+    <description>Unlocks craft of advanced Mechalit weapons.</description>
+    <baseCost>4600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SimpleMechaWeapon</li>
+      <li>PrecisionRifling</li>
+    </prerequisites>
+    <researchViewX>15</researchViewX>
+    <researchViewY>6</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>EliteMechaWeapons</defName>
+    <label>Elite mecha-weapon</label>
+    <description>Unlocks craft of elite Mechalit weapons.</description>
+    <baseCost>8000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedMechaWeapon</li>
+      <li>ChargedShot</li>
+    </prerequisites>
+    <researchViewX>16</researchViewX>
+    <researchViewY>5</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+  </ResearchProjectDef>
+</Defs>

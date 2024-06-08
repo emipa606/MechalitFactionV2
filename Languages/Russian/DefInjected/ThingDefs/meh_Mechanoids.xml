@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Lancer_S.label>Улан "Цикада"</Mech_Lancer_S.label>
+  <Mech_Lancer_S.description>Улан, созданный фракцией "Мехалит" по технологиям механоидов. Улан этой модификации слабее обычного улана и вооружен простым оружием фракции "Мехалит".</Mech_Lancer_S.description>
+  <Mech_Lancer_S.tools.0.label>улан левый кулак</Mech_Lancer_S.tools.0.label>
+  <Mech_Lancer_S.tools.1.label>улан правый кулак</Mech_Lancer_S.tools.1.label>
+  <Mech_Lancer_S.tools.2.label>улан голова</Mech_Lancer_S.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_S_Corpse.label>Улан "Цикада" труп</Mech_Lancer_S_Corpse.label>
+  <Mech_Lancer_S_Corpse.description>Улан "Цикада" труп</Mech_Lancer_S_Corpse.description>
+  <Mech_Lancer_M.label>Улан "Шершень"</Mech_Lancer_M.label>
+  <Mech_Lancer_M.description>Улан, созданный фракцией "Мехалит" по технологиям механоидов. Улан этой модификации более чем в 2 раза прочнее обычного улана и вооружен продвинутым оружием фракции "Мехалит".</Mech_Lancer_M.description>
+  <Mech_Lancer_M.tools.0.label>улан левый кулак</Mech_Lancer_M.tools.0.label>
+  <Mech_Lancer_M.tools.1.label>улан правый кулак</Mech_Lancer_M.tools.1.label>
+  <Mech_Lancer_M.tools.2.label>улан голова</Mech_Lancer_M.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_M_Corpse.label>Улан "Шершень" труп</Mech_Lancer_M_Corpse.label>
+  <Mech_Lancer_M_Corpse.description>Улан "Шершень" труп</Mech_Lancer_M_Corpse.description>
+</LanguageData>

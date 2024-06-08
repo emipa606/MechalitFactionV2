@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MultiCloth.label>Multicloth</MultiCloth.label>
+  <MultiCloth.description>A low quality textile, made from cloth or skin. Can't be used to craft clothes. Can be used to make synthread.</MultiCloth.description>
+  <ThermoCloth.label>Thermothread</ThermoCloth.label>
+  <ThermoCloth.description>A semi-synthetic textile with great insulating properties. Made from synthread and wool.</ThermoCloth.description>
+  <MechaCloth.label>Mechaweave</MechaCloth.label>
+  <MechaCloth.description>A hi-tech textile, made from hyperweave and devilstrand. Gives good protection both from damage and extreme temperatures.</MechaCloth.description>
+  <Apparel_ThermalSuitMeh.label>Thermosuit</Apparel_ThermalSuitMeh.label>
+  <Apparel_ThermalSuitMeh.description>Fully covers the body, keeping its temperature normal. Greatly protects from heat and cold, but offers almost no damage reduction.</Apparel_ThermalSuitMeh.description>
+  <Apparel_ProtectiveSuitMeh.label>Protective suit</Apparel_ProtectiveSuitMeh.label>
+  <Apparel_ProtectiveSuitMeh.description>Covers the whole body, protecting it from various types of damage. Slightly reduces movement and work speeds.</Apparel_ProtectiveSuitMeh.description>
+  <Apparel_WorkSuitMeh.label>Worker's exosuit</Apparel_WorkSuitMeh.label>
+  <Apparel_WorkSuitMeh.description>Covers the whole body. Grants little protection, but increases movement and work speeds thanks to built-in servos.</Apparel_WorkSuitMeh.description>
+  <Apparel_TrainBelt.label>train belt</Apparel_TrainBelt.label>
+  <Apparel_TrainBelt.description>It is attached to the waist and connects to the spinal cord. It facilitates the rapid assimilation of information and the improvement of muscle memory, and therefore increases the learning factor for everything. Side effects: reduces the speed of work, the rate of absorption of food, increases the threshold of nervous breakdown. The training belt is necessary for colonists with a low level of any skill in order to develop it as quickly as possible.</Apparel_TrainBelt.description>
+  <Apparel_ArmorMechalitMeh.label>Mechalit armor</Apparel_ArmorMechalitMeh.label>
+  <Apparel_ArmorMechalitMeh.description>An equipment of Mechalit faction. A hi-tech piece of armor with mechanite controlled life support system. Greatly increases wearer's survival rate and boosts many of his stats.</Apparel_ArmorMechalitMeh.description>
+  <Apparel_STacticalHelmetMeh.label>Tactical helmet</Apparel_STacticalHelmetMeh.label>
+  <Apparel_STacticalHelmetMeh.description>An advanced helmet with visor. Protects your head and makes you shots more accurate.</Apparel_STacticalHelmetMeh.description>
+  <Apparel_HelmetPumaMeh.label>Puma helmet</Apparel_HelmetPumaMeh.label>
+  <Apparel_HelmetPumaMeh.description>A special helmet, used by melee fighters of the Mechalit. It terrifies enemies and fills wearer with confidence. An advanced tactical software enhances fighter's melee efficiency, while special covering protects from psi-effects. Offers small protection, compared to power armor helmet.</Apparel_HelmetPumaMeh.description>
+  <Apparel_HelmetMechalitMeh.label>Mechalit helmet</Apparel_HelmetMechalitMeh.label>
+  <Apparel_HelmetMechalitMeh.description>A high-tech helmet with visor and psi-protection. Offers good protection against all types of damage. A high-class tactical software assits in aiming and learning.</Apparel_HelmetMechalitMeh.description>
+  <!-- ОРУЖИЕ -->
+  <Gun_PistolAmber.label>"Amber"</Gun_PistolAmber.label>
+  <Gun_PistolAmber.description>An elite, gold plated pistol. Was issued to the Mechalit officers for good service. Good damage and fire rate.</Gun_PistolAmber.description>
+  <Gun_AutopistolNeptune.label>"Neptune"</Gun_AutopistolNeptune.label>
+  <Gun_AutopistolNeptune.description>Common Mechalit firearm. Was often used when it was necessary to disable the target, without killing it. Cheap, low damage, but high fire rate.</Gun_AutopistolNeptune.description>
+  <Gun_PlasmaGun.label>Plasmagun</Gun_PlasmaGun.label>
+  <Gun_PlasmaGun.description>Two-barreled plasma rifle. Deals average damage over a long distance. Often used for hunting.</Gun_PlasmaGun.description>
+  <Gun_MagmaGun.label>"Flash"</Gun_MagmaGun.label>
+  <Gun_MagmaGun.description>Shoots pieces of hot metal. Sometimes can set the target on fire.</Gun_MagmaGun.description>
+  <Gun_ShotgunDolphin.label>"Dolphin"</Gun_ShotgunDolphin.label>
+  <Gun_ShotgunDolphin.description>A powerful shotgun, used in assault missions. Deals huge damage on short distances.</Gun_ShotgunDolphin.description>
+  <Gun_MechaRifle.label>Mecharifle</Gun_MechaRifle.label>
+  <Gun_MechaRifle.description>A Mechalit sniper rifle. Good rate of fire and average damage.</Gun_MechaRifle.description>
+  <Gun_TeachGun.label>Training Rifle</Gun_TeachGun.label>
+  <Gun_TeachGun.description>Special training rifle. Has low DPS, but at the same time it is aimed at the target, practically without the participation of the owner. Due to the very high rate of fire it allows you to quickly increase the shooting skill of the owner, it is perfect for pawns with low shooting skills. Not effective against armored targets.</Gun_TeachGun.description>
+  <MeleeWeapon_PlasmBlade.label>"Rapier"</MeleeWeapon_PlasmBlade.label>
+  <MeleeWeapon_PlasmBlade.description>Easy plasma blade. Does not do great damage, but has a high attack speed. Thanks to the built-in micro-turbines, the blade increases the speed of the owner's movement.</MeleeWeapon_PlasmBlade.description>
+  <Gun_MachineGunEclipse.label>"Eclipse"</Gun_MachineGunEclipse.label>
+  <Gun_MachineGunEclipse.description>A Mechalit relic weapon. It's very rare and expensive to make. Deals huge damage, but psi-active artifacts in it can cause behavioral instability.</Gun_MachineGunEclipse.description>
+  <Gun_Lord.label>"Lord"</Gun_Lord.label>
+  <Gun_Lord.description>A powerful cannon that shoots clusters of clean energy. Has a low range of fire, but very high damage. It is put on the arm and thanks to the harmonious work of the mechanics, charged with energy cells, improves the parameters of the owner.</Gun_Lord.description>
+  <Gun_MachineGunEclipse.label>"Eclipse Gold"</Gun_MachineGunEclipse.label>
+  <Gun_MachineGunEclipse.description>A Mechalit relic weapon. It's very rare and expensive to make. The Golden version is stronger than the Eclipse machine gun. But it cannot be obtained in any way. Only elite defenders of the Meсhalit faction deserve to wear it.</Gun_MachineGunEclipse.description>
+  <Gun_Gaston.label>"Gaston"</Gun_Gaston.label>
+  <Gun_Gaston.description>Powerful plasma carbine. Great for shooting at medium range. Equipped with a sharp plasma blade for hand-to-hand combat.</Gun_Gaston.description>
+</LanguageData>

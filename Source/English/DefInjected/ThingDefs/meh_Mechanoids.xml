@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Lancer_S.label>Lancer "Cicada"</Mech_Lancer_S.label>
+  <Mech_Lancer_S.description>Lancer, created by the Mechalit faction, using mechanoid technology. The lancer of this modification is weaker than the usual lancer and is armed with the simple weapon of the Mechalit faction.</Mech_Lancer_S.description>
+  <Mech_Lancer_S.tools.0.label>left fist</Mech_Lancer_S.tools.0.label>
+  <Mech_Lancer_S.tools.1.label>right fist</Mech_Lancer_S.tools.1.label>
+  <Mech_Lancer_S.tools.2.label>head</Mech_Lancer_S.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_S_Corpse.label>Lancer "Cicada" corpse</Mech_Lancer_S_Corpse.label>
+  <Mech_Lancer_S_Corpse.description>Lancer "Cicada" corpse</Mech_Lancer_S_Corpse.description>
+  <Mech_Lancer_M.label>Lancer "Hornet"</Mech_Lancer_M.label>
+  <Mech_Lancer_M.description>Lancer, created by the Mehalit faction, using mechanoid technology. The lancer of this modification is more than 2 times stronger than the usual lancer and is armed with the advanced weapon of the Mehalit faction.</Mech_Lancer_M.description>
+  <Mech_Lancer_M.tools.0.label>left fist</Mech_Lancer_M.tools.0.label>
+  <Mech_Lancer_M.tools.1.label>right fist</Mech_Lancer_M.tools.1.label>
+  <Mech_Lancer_M.tools.2.label>head</Mech_Lancer_M.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_M_Corpse.label>Lancer "Hornet" corpse</Mech_Lancer_M_Corpse.label>
+  <Mech_Lancer_M_Corpse.description>Lancer "Hornet" corpse</Mech_Lancer_M_Corpse.description>
+</LanguageData>

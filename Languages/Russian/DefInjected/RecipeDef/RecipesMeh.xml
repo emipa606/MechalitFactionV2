@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeMultiCloth.label>Создать мультиткань х5</MakeMultiCloth.label>
+  <MakeMultiCloth.description>Создать мультиткань из кожи/ткани, путем ее обработки газом.</MakeMultiCloth.description>
+  <MakeMultiCloth30.label>Создать мультиткань х30</MakeMultiCloth30.label>
+  <MakeMultiCloth30.description>Создать мультиткань из кожи/ткани, путем ее обработки газом.</MakeMultiCloth30.description>
+  <MakeSynthreadMeh.label>Создать синткань х30</MakeSynthreadMeh.label>
+  <MakeSynthreadMeh.description>Создать синткань из эфтама и большого кол-ва мультиткани.</MakeSynthreadMeh.description>
+  <MakeHyperweaveMeh.label>Создать гиперткань х30</MakeHyperweaveMeh.label>
+  <MakeHyperweaveMeh.description>Создать гиперткань из пластали и большого кол-ва мультиткани.</MakeHyperweaveMeh.description>
+  <MakeThermoClothMeh.label>Создать термоткань х30</MakeThermoClothMeh.label>
+  <MakeThermoClothMeh.description>Создать термоткань из синткани и шерсти.</MakeThermoClothMeh.description>
+  <MakeMechaClothMeh.label>Создать мехаткань х30</MakeMechaClothMeh.label>
+  <MakeMechaClothMeh.description>Создать мехаткань из гиперткани и дьяволоткани.</MakeMechaClothMeh.description>
+  <Make_Apparel_ThermalSuitMeh.label>Сделать термо-костюм</Make_Apparel_ThermalSuitMeh.label>
+  <Make_Apparel_ProtectiveSuitMeh.label>Сделать защитный костюм</Make_Apparel_ProtectiveSuitMeh.label>
+  <Make_Apparel_WorkSuitMeh.label>Сделать рабочий экзо-костюм</Make_Apparel_WorkSuitMeh.label>
+  <Make_Apparel_ArmorMechalitMeh.label>Сделать броню "Мехалит"</Make_Apparel_ArmorMechalitMeh.label>
+  <Make_Apparel_STacticalHelmetMeh.label>Сделать тактический шлем</Make_Apparel_STacticalHelmetMeh.label>
+  <Make_Apparel_HelmetPumaMeh.label>Сделать шлем "Пума"</Make_Apparel_HelmetPumaMeh.label>
+  <Make_Apparel_HelmetMechalitMeh.label>Сделать шлем "Мехалит"</Make_Apparel_HelmetMechalitMeh.label>
+  <!-- ОРУЖИЕ -->
+  <Make_Gun_PistolAmber.label>Сделать пистолет "Янтарь"</Make_Gun_PistolAmber.label>
+  <Make_Gun_AutopistolNeptune.label>Сделать автомат "Нептун"</Make_Gun_AutopistolNeptune.label>
+  <Make_Gun_PlasmaGun.label>Сделать плазмоган</Make_Gun_PlasmaGun.label>
+  <Make_Gun_MagmaGun.label>Сделать "Вспышку"</Make_Gun_MagmaGun.label>
+  <Make_Gun_ShotgunDolphin.label>Сделать дробовик "Дельфин"</Make_Gun_ShotgunDolphin.label>
+  <Make_Gun_MechaRifle.label>Сделать меха-винтовку</Make_Gun_MechaRifle.label>
+  <Make_Gun_MachineGunEclipse.label>Сделать пулемет "Затмение"</Make_Gun_MachineGunEclipse.label>
+</LanguageData>

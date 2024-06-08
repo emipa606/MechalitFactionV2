@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MehalitFaction.label>High-tech warlike faction</MehalitFaction.label>
+  <MehalitFaction.description>High-tech warlike ancient faction. Members of the faction are aggressive to strangers, but love money. Therefore, you can still make friends with them, but you have to pay dearly.
+The faction has mastered the high technologies that made it possible to create weapons that are stronger than power grips. But not all members of the faction are armed with the latest technology, because there are ranks in the faction. Only elite fighters of the faction deserve to wear the best armor and equipment. The bulk of the fighters of the faction — warriors and destroyers — are well equipped, but they are slightly weaker than those of elite warriors.
+Scout factions are most often used in raids on young settlements and in most cases do not pose a particular threat, but even among scouts there are strong fighters with good cannons. The france warriors sometimes set themselves for artificial limbs.
+The faction has long been using reprogrammed mechanoids to accompany their warriors. The leadership of the faction considered the ulans the most useful mechanoids. Therefore, the fraction uses improved modifications of the ulans created with the help of drawings of captured mechanoids. New mechanoids of the faction got a bright war paint to be more noticeable in battle and distract the enemy to themselves.
+The leadership of the Mechalit faction does not allow the faction’s equipment and armament to reach the less developed “not worthy” civilizations, therefore it obliges all fighters of the faction to wear special nano-teleporters who teleport all fighters and equipment from the battlefield. But this does not mean that you will be left with nothing. In place of defeated enemies remain resources from their inventories. Even ordinary fighters of the faction are quite rich and they always have some kind of resource.</MehalitFaction.description>
+  <MehalitFaction.pawnsPlural>warriors</MehalitFaction.pawnsPlural>
+  <MehalitFaction.leaderTitle>leader</MehalitFaction.leaderTitle>
+</LanguageData>

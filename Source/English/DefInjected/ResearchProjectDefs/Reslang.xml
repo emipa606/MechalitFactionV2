@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SimpleMechaTechnologies.label>Simple mecha-techs</SimpleMechaTechnologies.label>
+  <SimpleMechaTechnologies.description>Research unlocks mecha-workbench, that is used to create equpment and weapons of the Mechalit faction, as well as new types of cloth.</SimpleMechaTechnologies.description>
+  <MechaHelmets.label>Mecha-helmets</MechaHelmets.label>
+  <MechaHelmets.description>Allows to craft tactical and "Puma" helmets.</MechaHelmets.description>
+  <SynthreadAndHyperweave.label>Synthread/Hyperweave</SynthreadAndHyperweave.label>
+  <SynthreadAndHyperweave.description>Allows to make synthread and hyperweave from multicloth and other materials.</SynthreadAndHyperweave.description>
+  <SimpleMechaWeapon.label>Simple mecha-weapon</SimpleMechaWeapon.label>
+  <SimpleMechaWeapon.description>Unlocks craft of simple Mechalit weapons.</SimpleMechaWeapon.description>
+  <ArmorMechalit.label>Mechalit armor</ArmorMechalit.label>
+  <ArmorMechalit.description>Research allows to create parts of Mechalit armor set: helmet and body armor.</ArmorMechalit.description>
+  <ThermoclothandMechacloth.label>Thermothread/Mechaweave</ThermoclothandMechacloth.label>
+  <ThermoclothandMechacloth.description>Research unlocks elite types of textile.</ThermoclothandMechacloth.description>
+  <AdvancedMechaWeapon.label>Advanced mecha-weapon</AdvancedMechaWeapon.label>
+  <AdvancedMechaWeapon.description>Unlocks craft of advanced Mechalit weapons.</AdvancedMechaWeapon.description>
+  <EliteMechaWeapons.label>Elite mecha-weapon</EliteMechaWeapons.label>
+  <EliteMechaWeapons.description>Unlocks craft of elite Mechalit weapons.</EliteMechaWeapons.description>
+</LanguageData>

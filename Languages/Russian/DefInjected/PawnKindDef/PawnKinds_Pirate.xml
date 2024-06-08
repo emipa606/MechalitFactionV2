@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Low tier - scavenger, thrasher -->
+  <MehalitScout.label>Разведчик</MehalitScout.label>
+  <MehalitScout.labelPlural>Разведчики</MehalitScout.labelPlural>
+  <MehalitWarrior.label>Воитель</MehalitWarrior.label>
+  <MehalitWarrior.labelPlural>Воители</MehalitWarrior.labelPlural>
+  <MehalitDestroyer.label>Разрушитель</MehalitDestroyer.label>
+  <MehalitDestroyer.labelPlural>Разрушители</MehalitDestroyer.labelPlural>
+  <MehalitWarriorE.label>Элитный воитель</MehalitWarriorE.label>
+  <MehalitWarriorE.labelPlural>Элитные воители</MehalitWarriorE.labelPlural>
+  <MehalitWarriorE_Defender.label>Элитный защитник</MehalitWarriorE_Defender.label>
+  <MehalitWarriorE_Defender.labelPlural>Элитные защитник</MehalitWarriorE_Defender.labelPlural>
+  <MehalitWarriorGE.label>Элитный архонт</MehalitWarriorGE.label>
+  <MehalitWarriorGE.labelPlural>Элитные архонты</MehalitWarriorGE.labelPlural>
+  <MehalitWarriorL.label>Лидер</MehalitWarriorL.label>
+  <MehalitWarriorL.labelPlural>Лидер</MehalitWarriorL.labelPlural>
+  <Mehalit_Trader.label>Торговец</Mehalit_Trader.label>
+  <Mehalit_Trader.labelPlural>Торговцы</Mehalit_Trader.labelPlural>
+  <MehalitWarriorER.label>Элитный ренегат</MehalitWarriorER.label>
+  <MehalitWarriorER.labelPlural>Элитные ренегаты</MehalitWarriorER.labelPlural>
+  <MehalitWarriorER_Defender.label>Элитный защитник-ренегат</MehalitWarriorER_Defender.label>
+  <MehalitWarriorER_Defender.labelPlural>Элитные защитники-ренегаты</MehalitWarriorER_Defender.labelPlural>
+  <MehalitWarriorLR.label>Лидер-ренегат</MehalitWarriorLR.label>
+  <MehalitWarriorLR.labelPlural>Лидер-ренегат</MehalitWarriorLR.labelPlural>
+  <Mehalit_TraderR.label>Торговец-ренегат</Mehalit_TraderR.label>
+  <Mehalit_TraderR.labelPlural>Торговцы-ренегаты</Mehalit_TraderR.labelPlural>
+  <MehalitWarriorGER.label>Элитный архонт-ренегат</MehalitWarriorGER.label>
+  <MehalitWarriorGER.labelPlural>Элитные архонт-ренегаты</MehalitWarriorGER.labelPlural>
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--============================ TERMINAL ===============================-->
+  <ReceiveApparel_AngelShieldMech.label>Получить Щит "Филин"</ReceiveApparel_AngelShieldMech.label>
+  <ReceiveApparel_AngelShieldMech.description>Получить Щит "Филин" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_AngelShieldMech.description>
+  <ReceiveApparel_AngelShieldMech.jobString>Получает Щит "Филин"</ReceiveApparel_AngelShieldMech.jobString>
+  <ReceiveApparel_BastionShieldMech.label>Получить Щит "Бастион"</ReceiveApparel_BastionShieldMech.label>
+  <ReceiveApparel_BastionShieldMech.description>Получить Щит "Бастион" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_BastionShieldMech.description>
+  <ReceiveApparel_BastionShieldMech.jobString>Получает Щит "Бастион"</ReceiveApparel_BastionShieldMech.jobString>
+  <ReceiveApparel_AbsoluteShieldMech.label>Получить Щит "Абсолют"</ReceiveApparel_AbsoluteShieldMech.label>
+  <ReceiveApparel_AbsoluteShieldMech.description>Получить Щит "Абсолют" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_AbsoluteShieldMech.description>
+  <ReceiveApparel_AbsoluteShieldMech.jobString>Получает Щит "Абсолют"</ReceiveApparel_AbsoluteShieldMech.jobString>
+  <!-- ==============================  LEGACY ============================== -->
+  <ReceiveApparel_ArmorLegacyEliteMeh.label>Получить Роскошную броню "Легаси"</ReceiveApparel_ArmorLegacyEliteMeh.label>
+  <ReceiveApparel_ArmorLegacyEliteMeh.description>Получить Роскошную броню "Легаси" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_ArmorLegacyEliteMeh.description>
+  <ReceiveApparel_ArmorLegacyEliteMeh.jobString>Получает Роскошную броню "Легаси"</ReceiveApparel_ArmorLegacyEliteMeh.jobString>
+  <ReceiveApparel_HelmetLegacyEliteMeh.label>Получить Роскошный шлем "Легаси"</ReceiveApparel_HelmetLegacyEliteMeh.label>
+  <ReceiveApparel_HelmetLegacyEliteMeh.description>Получить Роскошный шлем "Легаси" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_HelmetLegacyEliteMeh.description>
+  <ReceiveApparel_HelmetLegacyEliteMeh.jobString>Получает Роскошный шлем "Легаси"</ReceiveApparel_HelmetLegacyEliteMeh.jobString>
+  <ReceiveApparel_ArmorLegacyEliteMehRRR.label>Получить Роскошную броню "Р-Легаси"</ReceiveApparel_ArmorLegacyEliteMehRRR.label>
+  <ReceiveApparel_ArmorLegacyEliteMehRRR.description>Получить Роскошную броню "Р-Легаси" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_ArmorLegacyEliteMehRRR.description>
+  <ReceiveApparel_ArmorLegacyEliteMehRRR.jobString>Получает Роскошную броню "Легаси"</ReceiveApparel_ArmorLegacyEliteMehRRR.jobString>
+  <ReceiveApparel_HelmetLegacyEliteMehRRR.label>Получить Роскошный шлем "Р-Легаси"</ReceiveApparel_HelmetLegacyEliteMehRRR.label>
+  <ReceiveApparel_HelmetLegacyEliteMehRRR.description>Получить Роскошный шлем "Р-Легаси" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveApparel_HelmetLegacyEliteMehRRR.description>
+  <ReceiveApparel_HelmetLegacyEliteMehRRR.jobString>Получает Роскошный шлем "Р-Легаси"</ReceiveApparel_HelmetLegacyEliteMehRRR.jobString>
+  <!-- ==============================  GUNS ============================== -->
+  <ReceiveGun_Winter.label>Получить Винтовку "Вьюга"</ReceiveGun_Winter.label>
+  <ReceiveGun_Winter.description>Получить Винтовку "Вьюга" в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveGun_Winter.description>
+  <ReceiveGun_Winter.jobString>Получает Винтовку "Вьюга"</ReceiveGun_Winter.jobString>
+  <!-- ==============================  MELEE ============================== -->
+  <ReceiveMeleeWeapon_PlasmGlaive.label>Получить Плазменную глефу</ReceiveMeleeWeapon_PlasmGlaive.label>
+  <ReceiveMeleeWeapon_PlasmGlaive.description>Получить Плазменную глефу в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveMeleeWeapon_PlasmGlaive.description>
+  <ReceiveMeleeWeapon_PlasmGlaive.jobString>Получает Плазменную глефу</ReceiveMeleeWeapon_PlasmGlaive.jobString>
+  <ReceiveMeleeWeapon_PlasmDisk.label>Получить Плазменный диск</ReceiveMeleeWeapon_PlasmDisk.label>
+  <ReceiveMeleeWeapon_PlasmDisk.description>Получить Плазменный диск в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveMeleeWeapon_PlasmDisk.description>
+  <ReceiveMeleeWeapon_PlasmDisk.jobString>Получает Плазменный диск</ReceiveMeleeWeapon_PlasmDisk.jobString>
+  <ReceiveMeleeWeapon_ImpulseGlove.label>Получить Импульсную перчатку</ReceiveMeleeWeapon_ImpulseGlove.label>
+  <ReceiveMeleeWeapon_ImpulseGlove.description>Получить Импульсную перчатку в обмен на астро-коины.\n\n&lt;color=#FFC700&gt;Качество предмета зависит от навыка "Умственный труд (умный колонист лучше обходит защитные протоколы станции и этим самым находит на ее складах более качественные предметы)".&lt;/color&gt;</ReceiveMeleeWeapon_ImpulseGlove.description>
+  <ReceiveMeleeWeapon_ImpulseGlove.jobString>Получает Импульсную перчатку</ReceiveMeleeWeapon_ImpulseGlove.jobString>
+</LanguageData>
